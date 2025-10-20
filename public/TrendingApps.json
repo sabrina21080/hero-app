@@ -1,0 +1,291 @@
+[
+    {
+    "image": "https://i.ibb.co.com/WNK8n926/unnamed-4.png",
+    "title": "PhotoFix",
+    "companyName": "PixLab",
+    "id": 120,
+    "description": "PhotoFix uses AI to enhance your photos instantly. It removes blemishes, improves lighting, and sharpens images with one tap. Whether restoring old pictures or perfecting selfies, it maintains natural quality. Batch editing, filters, and background removal make PhotoFix an all-in-one solution for anyone who loves creative visual storytelling.",
+    "size": 62,
+    "reviews": "5k",
+    "ratingAvg": 4.8,
+    "downloads": "17M",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 2140 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WvXt0Zzt/images-2.jpg",
+    "title": "BookNest",
+    "companyName": "Readify",
+    "id": 121,
+    "description": "BookNest connects readers through personalized book recommendations and online clubs. Track your reading progress, set yearly goals, and share reviews. Discover trending books or hidden gems that match your taste. Whether fiction or nonfiction, BookNest builds a vibrant space for readers to explore, connect, and grow their literary passions.",
+    "size": 48,
+    "reviews": "10k",
+    "ratingAvg": 4.6,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 230 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 870 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/sp7yjNPQ/images-3.jpg",
+    "title": "StudyZone",
+    "companyName": "EduPro",
+    "id": 122,
+    "description": "StudyZone turns learning into an engaging experience through quizzes, flashcards, and group discussions. It covers a wide range of subjects, providing instant feedback and performance analytics. Collaborate with classmates, set study goals, and track your progress over time. Study smarter, not harder, with StudyZone’s interactive educational platform for students.",
+    "size": 66,
+    "reviews": "15k",
+    "ratingAvg": 4.7,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 720 },
+      { "name": "5 star", "count": 1820 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/21JFHQRw/512x512bb.jpg",
+    "title": "MusicWave",
+    "companyName": "Soundify",
+    "id": 123,
+    "description": "MusicWave lets you discover and stream music from around the world. With AI-curated playlists, offline listening, and a powerful recommendation engine, it adapts to your mood. Explore trending tracks, follow artists, and create your sound journey. Enjoy crystal-clear audio and uninterrupted music anytime, anywhere with MusicWave’s smooth performance.",
+    "size": 71,
+    "reviews": "7k",
+    "ratingAvg": 4.8,
+    "downloads": "15M",
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 850 },
+      { "name": "5 star", "count": 3020 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MDm0K1KY/unnamed.webp",
+    "title": "TravelMate",
+    "companyName": "GlobeGo",
+    "id": 108,
+    "description": "TravelMate is your intelligent trip companion that suggests destinations, hotels, and local attractions tailored to your interests. It helps you organize itineraries, manage bookings, and explore hidden gems. With offline access, travel notes, and safety alerts, your adventures become smarter, safer, and more memorable across every journey you take.",
+    "size": 57,
+    "reviews": "9k",
+    "ratingAvg": 4.6,
+    "downloads": "17M",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 230 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1390 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/p6ZRYLXx/unnamed.png",
+    "title": "FitTrack",
+    "companyName": "HealthifyMe",
+    "id": 109,
+    "description": "FitTrack helps you stay active and healthy by tracking workouts, calories, sleep, and steps. It uses AI-based recommendations to build personalized fitness plans and provides progress charts to keep you motivated. You can set goals, join challenges, and share your achievements with friends to stay consistent and inspired.",
+    "size": 45,
+    "reviews": "5k",
+    "ratingAvg": 4.4,
+    "downloads": "17M",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 860 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WNYyfFtm/unnamed-1.png",
+    "title": "NoteEase",
+    "companyName": "WriteSmart",
+    "id": 110,
+    "description": "NoteEase simplifies how you capture, organize, and find ideas. Write notes, record audio, or attach photos—all synced across devices. AI-powered tags and categories make searching effortless. Ideal for students, professionals, and creatives, it keeps your notes accessible, organized, and secure in one beautifully simple, distraction-free workspace for productivity.",
+    "size": 38,
+    "reviews": "15k",
+    "ratingAvg": 4.7,
+    "downloads": "17M",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 670 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRJGTH1g/unnamed-2.png",
+    "title": "BudgetBuddy",
+    "companyName": "FinTechPro",
+    "id": 111,
+    "description": "BudgetBuddy helps you track expenses, create monthly budgets, and save smarter. It categorizes transactions automatically and provides clear spending insights with colorful charts. You can set saving goals, receive alerts for overspending, and even plan ahead for bills. Simplify money management and gain total financial clarity with BudgetBuddy’s tools.",
+    "size": 52,
+    "reviews": "20k",
+    "ratingAvg": 4.3,
+    "downloads": "17M",
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 620 },
+      { "name": "5 star", "count": 1050 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nHX3W4x/genz-ava-1664248910.webp",
+    "title": "LangMaster",
+    "companyName": "EduVerse",
+    "id": 112,
+    "description": "LangMaster transforms how you learn languages using short lessons, pronunciation checks, and AI tutors. It tailors learning paths based on your strengths and weaknesses, helping you practice speaking naturally. With daily challenges, vocabulary games, and offline lessons, it keeps language learning engaging and effective for learners at any level.",
+    "size": 64,
+    "reviews": "25k",
+    "ratingAvg": 4.8,
+    "downloads": "17M",
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1980 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WN06wZL4/unnamed-1.webp",
+    "title": "MealMate",
+    "companyName": "NutriApp",
+    "id": 113,
+    "description": "MealMate helps you eat better by generating weekly meal plans customized for your health goals. It includes calorie tracking, smart grocery lists, and diet reminders. Whether you’re vegan, keto, or just trying to stay healthy, MealMate ensures nutritious, balanced meals while saving your time and reducing food waste daily.",
+    "size": 41,
+    "reviews": "5k",
+    "ratingAvg": 4.5,
+    "downloads": "17M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/B2wgNbs1/1714489065796-640x640.webp",
+    "title": "MindCalm",
+    "companyName": "ZenLabs",
+    "id": 114,
+    "description": "MindCalm brings peace to your day through guided meditations, breathing sessions, and soothing music. It helps reduce stress, improve sleep, and enhance focus. Personalized progress insights encourage mindfulness habits. Whether you need a quick relaxation or deep meditation, MindCalm supports your journey toward emotional balance and better mental well-being.",
+    "size": 49,
+    "reviews": "4k",
+    "ratingAvg": 4.9,
+    "downloads": "17M",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 2120 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1tdN88Sx/9275f05f54f5d2df23416e383ef2d924-o-1677005522214.jpg",
+    "title": "CodeCamp",
+    "companyName": "DevWorks",
+    "id": 115,
+    "description": "CodeCamp teaches coding through hands-on exercises, real-world projects, and gamified challenges. You can learn HTML, CSS, JavaScript, and Python step-by-step. AI-powered hints and progress tracking make learning efficient. Whether you’re a beginner or intermediate coder, CodeCamp makes building your coding foundation fun, interactive, and truly practical for future developers.",
+    "size": 68,
+    "reviews": "10k",
+    "ratingAvg": 4.6,
+    "downloads": "17M",
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2550 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HDy1phnn/images.png",
+    "title": "QuickDocs",
+    "companyName": "SoftTools",
+    "id": 116,
+    "description": "QuickDocs lets you create, convert, and edit documents in multiple formats. It supports Word, PDF, and Excel files, with cloud synchronization and version control. Designed for professionals and students, QuickDocs ensures seamless collaboration, secure storage, and easy offline editing—all within a modern, clean, and user-friendly productivity workspace.",
+    "size": 55,
+    "reviews": "5k",
+    "ratingAvg": 4.4,
+    "downloads": "17M",
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 590 },
+      { "name": "5 star", "count": 1100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Fkr1SS4t/maxresdefault.jpg",
+    "title": "TaskFlow",
+    "companyName": "ProdBoost",
+    "id": 117,
+    "description": "TaskFlow is your productivity manager for everyday life. Create to-do lists, set priorities, and track goals visually. It syncs across devices, integrates with calendars, and sends reminders so you never miss deadlines. Perfect for students, teams, and professionals seeking an organized, distraction-free workflow that boosts focus and daily efficiency.",
+    "size": 43,
+    "reviews": "35k",
+    "ratingAvg": 4.5,
+    "downloads": "17M",
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 480 },
+      { "name": "5 star", "count": 970 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/YTkvNgQ7/images-1.jpg",
+    "title": "EcoTrack",
+    "companyName": "GreenTech",
+    "id": 118,
+    "description": "EcoTrack helps you live more sustainably by tracking your carbon footprint. Log daily habits, energy use, and travel choices to measure impact. It provides personalized eco-tips, rewards for progress, and community challenges. Make small lifestyle changes that collectively lead to a greener planet, all guided by EcoTrack’s intuitive tools.",
+    "size": 46,
+    "reviews": "55k",
+    "ratingAvg": 4.3,
+    "downloads": "17M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 470 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Df47nL2x/unnamed-3.png",
+    "title": "ShopSmart",
+    "companyName": "DealZone",
+    "id": 119,
+    "description": "ShopSmart automatically finds and applies the best online deals, discounts, and coupon codes for your favorite stores. Track price drops, compare products, and save money effortlessly. With real-time alerts and curated offers, ShopSmart ensures you never overpay while shopping for fashion, electronics, or groceries again—smart savings made simple.",
+    "size": 39,
+    "reviews": "5k",
+    "ratingAvg": 4.7,
+    "downloads": "17M",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1470 }
+    ]
+  }
+
+]
